@@ -70,10 +70,11 @@ Twivio is a cutting-edge social media platform that seamlessly integrates the be
 
 ## Technologies Used
 
+- React.js
+- Tailwind CSS
 - Node.js 
 - Express.js
 - MongoDB
-- Cloudinary (must have an account)
 
 ## Installation and Setup
 
